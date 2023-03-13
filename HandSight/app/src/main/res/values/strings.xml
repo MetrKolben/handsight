@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">HandSight</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="description_a">Make a fist and straighten you thumb;Show the front of your hand</string>
+    <string name="description_b">Straighten your fingers and close your thumb;Show the front of your hand</string>
+    <string name="description_c">Make a C shape from your fingers;Show the side of your hand</string>
+    <string name="description_d">Make an O shape from your fingers and straighten your index finger;Show the side of your hand</string>
+    <string name="description_e">Close your thumb and put the tips of your fingers on your thumb;Show the front of your hand</string>
+    <string name="description_f">Straighten your fingers and wrap your index finger around your thumb;Show the side of your hand</string>
+    <string name="description_g">Make a C shape from your fingers and close your thumb;Show the side of your hand</string>
+    <string name="description_h">Make a V shape from your index finger and your middle finger;Show the front of your hand</string>
+    <string name="description_ch">Make a C shape from your thumb, middle finger and index finger and partly open your index finger;Show the side of your hand</string>
+    <string name="description_i">Close your hand and straighten your pinky finger;Show the back of your hand</string>
+    <string name="description_j">Close your hand and straighten your pinky finger;Show the back of your hand</string>
+    <string name="description_k">Make a V shape from you index and middle fingers;Show the back of your hand</string>
+    <string name="description_l">Make an L shape from your thumb and index finger;Show the front of your hand</string>
+    <string name="description_m">Close your thumb and straighten the other fingers;Show the back of your hand with the fingers pointing down</string>
+    <string name="description_n">Close your hand and straighten your index and middle finger;Show the back of your hand with the fingers pointing down</string>
+    <string name="description_o">Make an O shape from your fingers;Show the side of your hand</string>
+    <string name="description_p">Straighten your index and middle finger;Show the back of your hand with the fingers being horizontal</string>
+    <string name="description_q">Close your hand and straighten your thumb and index finger;Show the side of your hand</string>
+    <string name="description_r">Cross your middle and index finger;Show the side of your hand</string>
+    <string name="description_s">Make a fist;Show the front of your hand</string>
+    <string name="description_t">Open your hand and make a T shape from your thumb and index finger;Show the side of your hand</string>
+    <string name="description_u">Close your hand and straighten your index and middle finger;Show the back of your hand</string>
+    <string name="description_v">Make a V shape with your index and middle finger;Show the back of your hand</string>
+    <string name="description_w">Open your hand and close your thumb and pinky finger;Show the back of your hand</string>
+    <string name="description_x">Open your hand and close your thumb;Show the back of your hand</string>
+    <string name="description_y">Straighten your thumb and pinky finger;Show the front of your hand</string>
+    <string name="description_z">Join all of your fingers while keeping them straight and partly open your index finger;Show the side of your hand</string>
+    <string name="settings">Settings</string>
+    <string name="font_size">Font size</string>
+    <string name="handsight">Handsight</string>
+    <string name="www_sample_site_cz">www.sample.site.cz</string>
+    <string name="word_formation">Word formation</string>
+    <string name="version_1_0_0">version: 1.0.0</string>
+    <string name="recognition">Recognition</string>
+    <string name="dictionary">Dictionary</string>
+
+</resources>

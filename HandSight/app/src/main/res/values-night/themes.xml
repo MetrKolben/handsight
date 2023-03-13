@@ -1,0 +1,15 @@
+<resources>
+    <style name="Theme.HandSight" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="android:colorBackground">@color/dark</item>
+        <item name="backgroundColor">@color/dark2</item>
+        <item name="android:textColor">@color/dark_text</item>
+        <item name="itemTextColor">@color/dark_text</item>
+        <item name="android:textColorHighlight">@color/dark_text2</item>
+        <item name="android:colorEdgeEffect">@color/dark5</item>
+        <item name="android:colorControlHighlight">@color/dark5</item>
+        <item name="android:colorControlActivated">@color/dark5</item>
+        <item name="android:colorControlNormal">@color/dark5</item>
+        <item name="itemRippleColor">@color/dark5</item>
+        <item name="android:statusBarColor">@color/dark5</item>
+    </style>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Background item -->
+    <item android:drawable="@drawable/ic_circle"
+        android:width="55dp"
+        android:height="55dp" />
+
+    <!-- Image source item -->
+    <item android:drawable="@drawable/ic_menu"
+        android:gravity="center"
+        android:width="40dp"
+        android:height="40dp" />
+</layer-list>
